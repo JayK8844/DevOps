@@ -1,11 +1,11 @@
-To configure git
+fTo configure git
 $git config –global user.email jay884@gmail.com
 $git config –global user.name “YourName”
 
 $git init   ##initilize GIT
 $git status ## check status of tracked and untracked files
 $git add .       ### add all files to tracking in current directory ##staging
-
+fedffffffffffffff
 
 git remote add origin https://github.com/jayk8844/Demo.git
 

@@ -1,0 +1,19 @@
+To configure git
+$git config –global user.email jay884@gmail.com
+$git config –global user.name “YourName”
+
+$git init   ##initilize GIT
+$git status ## check status of tracked and untracked files
+$git add .       ### add all files to tracking in current directory ##staging
+
+
+git remote add origin https://github.com/jayk8844/Demo.git
+
+ADMIN@DESKTOP-UJMH5UF MINGW64 ~/Desktop/DevOps/terraform (master)
+$ git branch -m main
+
+ADMIN@DESKTOP-UJMH5UF MINGW64 ~/Desktop/DevOps/terraform (main)
+$ git push -u origin main
+
+$git log     ##to check commit it
+i
